@@ -20,6 +20,7 @@ gem 'pg'
 
 gem 'paperclip', '~> 4.2'
 gem 'aws-sdk', '~> 3.0'
+gem 'protected_attributes'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
