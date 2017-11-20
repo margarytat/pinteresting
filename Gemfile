@@ -18,9 +18,8 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'pg'
 
-gem 'paperclip', '~> 4.2'
+gem 'paperclip'
 gem 'aws-sdk', '~> 3.0'
-gem 'protected_attributes'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
