@@ -19,7 +19,7 @@ gem 'devise'
 gem 'pg'
 
 gem 'paperclip'
-gem 'aws-sdk', '~> 3.0'
+gem 'aws-sdk', '~> 2.10.47'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
