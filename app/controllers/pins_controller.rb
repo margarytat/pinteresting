@@ -50,6 +50,6 @@ class PinsController < ApplicationController
     end
 
     def pin_params
-      params.require(:pin).permit(:description, :image, :image_file_name)
+      params.require(:pin).permit(:description, :image)
     end
 end
